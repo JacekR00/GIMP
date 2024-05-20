@@ -1,9 +1,7 @@
-# GIMP
-4.3.4. Importing a Plugin into GIMP and Setting Up the Environment
+# GIMP | Importing a Plugin into GIMP and Setting Up the Environment
+Importing a Plugin into GIMP and Setting Up the Environment
 
-4.3.4.1. Setting Up the Environment
-
-
+ Setting Up the Environment
 
 Installing GIMP:
 
